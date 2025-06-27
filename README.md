@@ -57,11 +57,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kinjalgauswami&show_icons=true&theme=radical" alt="Kinjal's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kinjal0706&show_icons=true&theme=radical" alt="Kinjal's GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kinjalgauswami&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kinjal0706&theme=radical" alt="GitHub Streak"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinjalgauswami&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kinjal0706&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -69,7 +69,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kinjalgauswami&theme=gruvbox&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kinjal0706&theme=gruvbox&margin-w=10" />
 </p>
 
 ---
@@ -77,10 +77,12 @@
 ### 📁 Projects
 
 - **Blinkit Sales Dashboard**  
-  [Power BI Project | Data Cleaning & Modeling](#) *(upload link if public)*
+  *Power BI Project | Data Cleaning & Modeling*  
+  🔗 *(Upload and paste link here)*
 
 - **Amazon Prime Video Analytics**  
-  [Power BI | Viewer Pattern Analysis](#)
+  *Power BI | Viewer Pattern Analysis*  
+  🔗 *(Upload and paste link here)*
 
 ---
 
@@ -91,5 +93,5 @@ I believe a good dashboard tells a story — and I love telling data stories �
 
 ### 🚀 Visitors Count
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kinjalgauswami&label=Profile%20views&color=0e75b6&style=flat" alt="visitor badge" />
+  <img src="https://komarev.com/ghpvc/?username=Kinjal0706&label=Profile%20views&color=0e75b6&style=flat" alt="visitor badge" />
 </p>
