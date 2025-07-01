@@ -34,6 +34,7 @@
 ### 📫 How to Reach Me
 - 📧 kinjugoaswami@gmail.com
 - 🌐 [LinkedIn](https://linkedin.com/in/kinjalgauswami)
+- 🌐 [LeetCode](https://leetcode.com/u/Kinjal_12/)
 
 ---
 
