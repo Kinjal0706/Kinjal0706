@@ -2,6 +2,12 @@
 <h3 align="center">A passionate Data Analyst and aspiring ML Engineer from India 🇮🇳</h3>
 
 <p align="center">
+  <a href="https://leetcode.com/u/Kinjal_12/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/kinjugoaswami" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white"/>
+  </a>
   <a href="https://linkedin.com/in/kinjalgauswami" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
@@ -35,6 +41,7 @@
 - 📧 kinjugoaswami@gmail.com
 - 🌐 [LinkedIn](https://linkedin.com/in/kinjalgauswami)
 - 🌐 [LeetCode](https://leetcode.com/u/Kinjal_12/)
+- 🌐 [HackerRank](https://www.hackerrank.com/profile/kinjugoaswami)
 
 ---
 
